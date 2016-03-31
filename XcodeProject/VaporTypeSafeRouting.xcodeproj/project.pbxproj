@@ -254,7 +254,7 @@
 
 /* Begin PBXFileReference section */
 		35AADF5C1CAD4A1400FB1D5B /* UserData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
-		__PBXFileRef_Package.swift /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Package.swift; path = /Users/nao/Program/SwiftExamples/VaporServerSide/VaporTypeSafeRouting/Package.swift; sourceTree = "<group>"; };
+		35AADF5F1CAD526100FB1D5B /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Package.swift; path = ../Package.swift; sourceTree = "<group>"; };
 		"__PBXFileRef_Packages/C7-0.1.12/Sources/AsyncStream.swift" /* AsyncStream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncStream.swift; sourceTree = "<group>"; };
 		"__PBXFileRef_Packages/C7-0.1.12/Sources/AsyncStreamClient.swift" /* AsyncStreamClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncStreamClient.swift; sourceTree = "<group>"; };
 		"__PBXFileRef_Packages/C7-0.1.12/Sources/AsyncStreamServer.swift" /* AsyncStreamServer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncStreamServer.swift; sourceTree = "<group>"; };
@@ -571,7 +571,7 @@
 		"___RootGroup_" = {
 			isa = PBXGroup;
 			children = (
-				__PBXFileRef_Package.swift /* Package.swift */,
+				35AADF5F1CAD526100FB1D5B /* Package.swift */,
 				"_____Sources_" /* Sources */,
 				"_______Tests_" /* Tests */,
 				"____Products_" /* Products */,
